@@ -1,0 +1,25 @@
+.bookList{
+    width: 150px;
+    height: 250px;
+    list-style-type: none;
+}
+
+.addBtn{
+    margin-left: 45%;
+}
+
+.ListPage{
+    position: relative;
+}
+
+.PopupWindow{
+    padding: 15px;
+    width: 70%;
+    height: 600px;
+    position: absolute;
+    top: 50px;
+    left:60%;
+    margin-left:-50vw;
+    z-index: 5;
+    background-color: rgb(177, 176, 176);
+}
